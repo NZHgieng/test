@@ -2,6 +2,11 @@ body {
 	background-color:#FFFFE0;
 	font-family:sens-serif;
 	color:#8B0000;
+	background-image:url('sp.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	background-size:cover;
 }
 #footer{
 	font-size:9px;
@@ -62,9 +67,10 @@ a{
 #spacing{
 	background-color:#FFFFE0;
 	width:30px;
-	height:300px;
+	height:100px;
 	float:left;
 }
 #box{
 	width:9000px;
+	background-image:none;
 }
